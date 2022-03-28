@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmyil Deepika Myilsamy.
+- 👋 Hi, I’m Deepika Myilsamy.
 - 👀 I’m interested in Data Science Roles.
 - 🌱 I’m currently doing my Masters in Analytics at USF.
 - 💞️ I’m looking to collaborate on Data Science projects.
