@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepika Myilsamy.
-- 👀 I’m interested in Data Analyst/Data Science Roles.
+- 👀 I’m interested in Data Science internship Roles.
 - 🌱 I’m currently doing my Masters in Analytics at USF.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me i.deepikamyilsamy@gmail.com
