@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepika Myilsamy.
-- 👀 I’m interested in full-time roles in Data Science and Analytics
+- 👀 I’m interested in full-time roles in Data Science and Analytics and can start Immediately!
 - 🌱 I’m currently doing my Masters in Analytics at USF.
 - 💞️ I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me d.myilsamy6@gmail.com
