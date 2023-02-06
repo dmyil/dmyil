@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Deepika Myilsamy.
-- 👀 I’m interested in Data Science internship Roles.
+- 👀 I’m interested in full-time roles in Data Science and Analytics
 - 🌱 I’m currently doing my Masters in Analytics at USF.
 - 💞️ I’m looking to collaborate on Data Science projects.
-- 📫 How to reach me i.deepikamyilsamy@gmail.com
+- 📫 How to reach me d.myilsamy6@gmail.com
 
 <!---
 dmyil/dmyil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
